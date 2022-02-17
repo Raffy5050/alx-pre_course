@@ -1,3 +1,3 @@
  ## ALX PROJECT 
 
- - Beginner level
+ - Beginner level course
